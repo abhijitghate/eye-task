@@ -1,0 +1,27 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "eyetool"
+version = "0.1.0"
+description = "eyetool CLI"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Abhijit Ghate", email = "abhijitsghate0605@gmail.com" }]
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn>=0.30",
+]
+
+[project.scripts]
+eyetool = "eyetool.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/eyetool"]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+]

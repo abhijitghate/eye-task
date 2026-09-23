@@ -1,0 +1,1000 @@
+id;asset_name;ip;created_utc;source;category
+119611;server_horizon;102.145.229.227;27/02/2024 00:00;pxtrpf;explaoit-public facing
+142280;address_artichoke;118.123.166.144;06/09/2024 00:00;defender;valida_accounts
+315061;server_spray;18.147.227.44;08/04/2024 00:00;crowdstrike;supply chain compromise
+402618;server_spark;8.245.154.104;04/02/2024 00:00;pxtrpf;phising
+657001;server_serenade;99.111.27.245;17/08/2024 00:00;pxtrpf;phising
+281682;name_flare;15.232.2.167;12/06/2024 00:00;crowdstrike_cs;Replication through removable media
+856468;script_shrine;98.157.98.17;03/06/2024 00:00;crowdstrike;phising
+958471;server_sonic;41.139.178.210;04/10/2024 00:00;xpklnr;Replication through removable media
+867814;automated_azalea;25.133.203.93;16/08/2024 00:00;crowdstrike;external-remote-service
+728170;server_spark;8.245.154.104;31/05/2024 00:00;pxtrpf;content_injection
+255966;name_flu;210.139.189.4;03/05/2024 00:00;pxtrpf;content injection
+722426;name_stimulate;212.181.255.207;31/05/2024 00:00;crowdstrike_cs;external-remote-service
+351808;name_spray;56.165.175.235;29/07/2024 00:00;defender;phising
+276086;byte_barn;164.235.149.167;13/03/2024 00:00;xpklnr;external-remote-service
+401991;server_spark;8.245.154.104;19/05/2024 00:00;pxtrpf;trusted relationship
+629977;byte_brigade;216.143.218.34;01/02/2024 00:00;pxtrpf;trusted relationship
+236533;server_sonic;254.140.235.133;30/09/2024 00:00;pxtrpf;phising
+720959;name_flash;138.17.221.79;08/07/2024 00:00;defender;phising
+856872;server_spray;210.159.245.199;01/08/2024 00:00;pxtrpf;trusted relationship
+397081;network_narcissus;255.67.121.67;25/02/2024 00:00;defender;exploit public facing
+765559;server_summit;36.209.179.4;31/07/2024 00:00;crowdstrike;exploit public facing
+738463;network_narcissus;255.67.121.67;01/08/2024 00:00;defender;supply chain compromise
+375414;server_spray;18.147.227.44;25/09/2024 00:00;crowdstrike;valid accounts
+879864;server_spray;244.110.8.40;05/06/2024 00:00;xpklnr;phising
+697221;name_rave;190.13.109.124;31/03/2024 00:00;defender;Phising
+960893;connection_cacao;15.201.87.20;21/06/2024 00:00;xpklnr;supply chain compromise
+787903;name_flare;15.232.2.167;23/02/2024 00:00;crowdstrike_cs;drive by compromise
+297341;server_sprout;37.68.185.154;26/04/2024 00:00;defender;phising
+231391;node_nest;122.139.122.39;22/05/2024 00:00;pxtrpf;phising
+737797;byte_barn;164.235.149.167;27/01/2024 00:00;xpklnr;trusted relationship
+744180;spark_shrine;187.24.234.40;04/06/2024 00:00;crowdstrike;drive-by-compromise
+868137;server_orbit;3.100.110.193;08/05/2024 00:00;defender;drive-by-compromise
+489207;name_vault;137.127.174.143;07/09/2024 00:00;xpklnr;supply_chain_compromise
+150317;byte_barn;164.235.149.167;11/08/2024 00:00;xpklnr;trusted relationship
+164935;name_bounce;205.212.155.232;19/09/2024 00:00;crowdstrike;phising
+709710;server_spark;8.245.154.104;09/08/2024 00:00;pxtrpf;phising
+911273;servivio;202.30.35.66;17/07/2024 00:00;xpklnr;trusted-relationship
+284712;name_bounce;187.21.83.39;22/04/2024 00:00;pxtrpf;external remote service
+757624;server_spray;210.159.245.199;21/08/2024 00:00;pxtrpf;trusted relationship
+292110;name_vault;38.227.62.100;28/02/2024 00:00;crowdstrike;phising
+79674;script_shrine;181.75.227.93;29/05/2024 00:00;xpklnr;explaoit-public facing
+48314;cloud_clover;41.122.113.78;21/08/2024 00:00;crowdstrike;compromise (driveby)
+120952;server_spark;8.245.154.104;10/09/2024 00:00;pxtrpf;replication-through-removable-media
+290153;server_sonic;254.140.235.133;04/10/2024 00:00;pxtrpf;trusted relationship
+431696;name_frenzy;16.38.120.153;03/02/2024 00:00;crowdstrike_cs;trusted-relationship
+597565;connection_cacao;15.201.87.20;04/08/2024 00:00;xpklnr;content injection
+289296;address_artichoke;174.181.0.67;16/07/2024 00:00;crowdstrike;external remote service
+486316;server_frenzy;139.170.97.22;03/01/2024 00:00;defender;valida_accounts
+55950;server_phoenix;85.153.99.255;24/07/2024 00:00;crowdstrike;Replication through removable media
+69625;server_sonic;41.139.178.210;30/04/2024 00:00;xpklnr;phising
+33059;logic_lemon;185.103.147.217;03/04/2024 00:00;pxtrpf;drive by compromise
+562346;name_vault;137.127.174.143;21/06/2024 00:00;xpklnr;supply_chain_compromise
+381696;name_flash;138.17.221.79;28/09/2024 00:00;defender;phising
+621333;address_artichoke;174.181.0.67;26/02/2024 00:00;crowdstrike;compromise (driveby)
+176000;server_phoenix;83.219.207.96;27/09/2024 00:00;xpklnr;Replication through removable media
+996363;server_orbit;3.100.110.193;01/07/2024 00:00;defender;trusted relationship
+793091;server_spray;86.153.111.108;11/07/2024 00:00;crowdstrike_cs;phising
+242308;server_boost;59.218.102.145;30/08/2024 00:00;crowdstrike_cs;content injection
+108665;spark_shrine;187.24.234.40;26/05/2024 00:00;crowdstrike;Replication through removable media
+744777;cloud_clover;139.224.8.197;11/08/2024 00:00;pxtrpf;supply_chain_compromise
+117353;server_phoenix;83.219.207.96;26/01/2024 00:00;xpklnr;trusted relationship
+238274;name_flu;119.132.254.128;08/06/2024 00:00;crowdstrike;Replication through removable media
+832616;byte_basil;214.171.233.83;24/09/2024 00:00;defender;valid-accounts
+38036;server_boost;59.218.102.145;02/08/2024 00:00;crowdstrike_cs;drive-by-compromise
+851181;automated_azalea;25.133.203.93;26/02/2024 00:00;crowdstrike;drive-by-compromise
+736978;name_flu;119.132.254.128;19/01/2024 00:00;crowdstrike;phising
+769762;system_spearmint;153.137.102.66;15/02/2024 00:00;pxtrpf;trusted relationship
+734783;server_spray;18.147.227.44;05/02/2024 00:00;crowdstrike;trusted relationship
+912773;logic_lemon;185.103.147.217;29/09/2024 00:00;pxtrpf;trusted relationship
+230272;server_hype;52.154.94.15;01/10/2024 00:00;defender;Replication through removable media
+631601;server_spray;244.110.8.40;10/02/2024 00:00;xpklnr;supply_chain_compromise
+111465;server_spray;244.110.8.40;04/05/2024 00:00;xpklnr;exploit public facing
+333012;server_pro;137.220.249.174;17/09/2024 00:00;defender;phising
+406112;cloud_clover;41.122.113.78;09/02/2024 00:00;crowdstrike;Replication through removable media
+132047;name_spray;91.201.167.211;30/01/2024 00:00;pxtrpf;replication-through-removable-media
+519848;server_sprout;37.68.185.154;30/01/2024 00:00;defender;phising
+156735;name_burst;135.3.178.19;08/03/2024 00:00;defender;valida_accounts
+59296;server_spray;18.147.227.44;25/09/2024 00:00;crowdstrike;external remote service
+838096;node_nectarine;168.104.59.94;23/06/2024 00:00;xpklnr;Phising
+24248;automated_azalea;25.133.203.93;23/04/2024 00:00;crowdstrike;supply chain compromise
+898039;server_match;98.87.105.173;31/01/2024 00:00;pxtrpf;supply chain compromise
+751659;name_frenzy;107.249.124.117;24/09/2024 00:00;crowdstrike;trusted relationship
+522304;server_phoenix;173.115.197.63;10/10/2024 00:00;xpklnr;phising
+716431;server_spark;8.245.154.104;02/08/2024 00:00;pxtrpf;drive-by-compromise
+811645;name_bounce;187.21.83.39;01/07/2024 00:00;pxtrpf;external-remote-service
+68220;spark_shrine;118.169.144.206;11/02/2024 00:00;pxtrpf;phising
+167910;name_burst;135.3.178.19;26/07/2024 00:00;defender;Replication through removable media
+993425;name_flash;27.158.154.116;08/06/2024 00:00;defender;supply chain compromise
+569537;server_orbit;3.100.110.193;24/09/2024 00:00;defender;drive by compromise
+147670;server_frenzy;195.181.27.3;16/09/2024 00:00;defender;phising
+320709;script_shrine;181.75.227.93;04/06/2024 00:00;xpklnr;content injection
+634059;server_seed;110.104.255.2;20/01/2024 00:00;pxtrpf;trusted relationship
+736454;server_orbit;3.100.110.193;01/09/2024 00:00;defender;replication-through-removable-media
+540498;name_spray;91.201.167.211;08/01/2024 00:00;pxtrpf;Replication through removable media
+140511;server_phoenix;65.109.165.41;18/05/2024 00:00;crowdstrike;content_injection
+153902;name_flare;73.80.176.177;06/02/2024 00:00;xpklnr;supply_chain_compromise
+250596;server_boost;59.218.102.145;04/05/2024 00:00;crowdstrike_cs;valid accounts
+11974;name_flare;73.80.176.177;02/04/2024 00:00;xpklnr;content injection
+961280;server_summit;131.21.57.124;24/03/2024 00:00;pxtrpf;valida_accounts
+704750;server_boost;59.218.102.145;01/10/2024 00:00;crowdstrike_cs;replication-through-removable-media
+277222;automated_azalea;42.46.70.0;21/05/2024 00:00;xpklnr;Replication through removable media
+919094;server_phoenix;65.109.165.41;28/04/2024 00:00;crowdstrike;Replication through removable media
+640987;connection_cacao;70.254.235.79;16/03/2024 00:00;crowdstrike;phising
+889807;server_summit;131.21.57.124;02/09/2024 00:00;pxtrpf
+569793;server_match;98.87.105.173;05/10/2024 00:00;pxtrpf;valida_accounts
+679359;name_burst;135.3.178.19;26/04/2024 00:00;defender;compromise (driveby)
+433748;name_vault;192.161.97.125;10/01/2024 00:00;xpklnr;Replication through removable media
+234803;byte_barn;164.235.149.167;30/01/2024 00:00;xpklnr;compromise (driveby)
+363068;name_spray;91.201.167.211;17/04/2024 00:00;pxtrpf;content injection
+120930;host_hyacinth;156.84.177.39;27/07/2024 00:00;defender;trusted relationship
+348833;cloud_clover;41.122.113.78;01/07/2024 00:00;crowdstrike;Replication through removable media
+996975;name_spray;91.201.167.211;29/02/2024 00:00;pxtrpf;Replication through removable media
+657100;name_vault;38.227.62.100;04/02/2024 00:00;crowdstrike;Replication through removable media
+822367;spark_shrine;118.169.144.206;09/06/2024 00:00;pxtrpf;trusted relationship
+756279;name_soar;255.61.194.85;12/06/2024 00:00;crowdstrike_cs;valid accounts
+241188;server_match;148.222.132.101;20/05/2024 00:00;crowdstrike;phising
+385928;domain_daisy;87.3.75.80;15/06/2024 00:00;crowdstrike;phising
+24233;node_nectarine;218.130.171.99;11/09/2024 00:00;crowdstrike;drive-by-compromise
+339;name_rave;190.13.109.124;22/02/2024 00:00;defender;exploit public facing
+423300;server_phoenix;65.109.165.41;12/03/2024 00:00;crowdstrike;exploit public facing
+707829;server_spray;106.94.51.64;23/09/2024 00:00;crowdstrike_cs;phising
+758222;address_artichoke;118.123.166.144;22/02/2024 00:00;defender;valida_accounts
+882278;name_bounce;205.212.155.232;11/05/2024 00:00;crowdstrike;external-remote-service
+738696;server_summit;36.209.179.4;27/01/2024 00:00;crowdstrike;trusted relationship
+485709;name_flash;138.17.221.79;06/05/2024 00:00;defender;trusted relationship
+239584;server_phoenix;65.109.165.41;06/04/2024 00:00;crowdstrike;trusted relationship
+525158;cloud_clover;134.213.33.248;07/03/2024 00:00;defender;Phising
+114441;server_spray;74.183.227.186;07/10/2024 00:00;xpklnr;trusted relationship
+420329;server_lynx;60.140.72.229;02/07/2024 00:00;pxtrpf;external-remote-service
+168857;name_vault;17.216.166.29;05/03/2024 00:00;crowdstrike;trusted relationship
+816339;server_frenzy;195.181.27.3;19/09/2024 00:00;defender;Replication through removable media
+972925;name_flash;138.17.221.79;03/09/2024 00:00;defender;trusted relationship
+690726;name_vault;17.216.166.29;22/01/2024 00:00;crowdstrike;valid accounts
+36380;server_pro;137.220.249.174;18/05/2024 00:00;defender;phising
+132234;server_phoenix;65.109.165.41;03/08/2024 00:00;crowdstrike;content injection
+93191;byte_beat;71.115.54.187;27/02/2024 00:00;crowdstrike_cs;exploit public facing
+13361;server_surge;17.226.8.95;13/02/2024 00:00;crowdstrike;exploit public facing
+295198;servivio;189.197.179.58;09/10/2024 00:00;crowdstrike;trusted relationship
+28138;web_wonder;164.143.175.172;27/04/2024 00:00;crowdstrike_cs;explaoit-public facing
+526840;cloud_clover;134.213.33.248;26/06/2024 00:00;defender;phising
+944113;name_vault;17.216.166.29;28/05/2024 00:00;crowdstrike;valid accounts
+83903;address_artichoke;174.181.0.67;26/08/2024 00:00;crowdstrike;trusted relationship
+381510;spark_shrine;187.24.234.40;11/08/2024 00:00;crowdstrike;exploit public facing
+766886;spark_shrine;187.24.234.40;08/10/2024 00:00;crowdstrike;phising
+985591;name_vault;192.161.97.125;14/01/2024 00:00;xpklnr;Replication through removable media
+309873;servelite;194.172.44.80;31/03/2024 00:00;crowdstrike;content injection
+144734;servivio;202.30.35.66;18/05/2024 00:00;xpklnr;Phising
+584180;byte_brigade;216.143.218.34;12/02/2024 00:00;pxtrpf;trusted relationship
+565358;name_flare;73.80.176.177;14/06/2024 00:00;xpklnr;phising
+743564;server_phoenix;85.153.99.255;07/09/2024 00:00;crowdstrike;exploit public facing
+40937;server_utopia;204.42.170.106;25/04/2024 00:00;defender;supply_chain_compromise
+386920;domain_daisy;89.139.158.117;24/04/2024 00:00;pxtrpf;trusted relationship
+459234;domain_daisy;87.3.75.80;17/01/2024 00:00;crowdstrike;trusted-relationship
+500715;automated_azalea;42.46.70.0;02/04/2024 00:00;xpklnr;valid accounts
+982272;server_spark;8.245.154.104;02/04/2024 00:00;pxtrpf;compromise (driveby)
+462950;server_pro;137.220.249.174;20/01/2024 00:00;defender;drive-by-compromise
+386521;name_frenzy;192.215.91.76;05/10/2024 00:00;xpklnr;phising
+179008;computing_coriander;203.13.190.29;08/02/2024 00:00;defender;Phising
+289851;server_spray;86.153.111.108;18/01/2024 00:00;crowdstrike_cs;Replication through removable media
+628299;name_flu;210.139.189.4;14/04/2024 00:00;pxtrpf;valid-accounts
+400988;spark_shrine;248.173.207.185;26/06/2024 00:00;xpklnr;drive by compromise
+641125;name_soar;255.61.194.85;15/01/2024 00:00;crowdstrike_cs;phising
+328033;byte_basil;214.171.233.83;15/06/2024 00:00;defender;phising
+733225;name_flare;15.232.2.167;16/02/2024 00:00;crowdstrike_cs;replication-through-removable-media
+825096;server_spray;74.183.227.186;12/02/2024 00:00;xpklnr;explaoit-public facing
+410684;server_surge;244.101.196.83;07/06/2024 00:00;pxtrpf;external remote service
+747889;byte_basil;214.171.233.83;31/08/2024 00:00;defender;trusted relationship
+787520;server_phoenix;85.153.99.255;27/03/2024 00:00;crowdstrike;phising
+385770;address_artichoke;174.181.0.67;07/02/2024 00:00;crowdstrike;supply chain compromise
+619283;automated_azalea;25.133.203.93;18/05/2024 00:00;crowdstrike;content_injection
+636696;spark_shrine;118.169.144.206;02/02/2024 00:00;pxtrpf;Phising
+15500;name_spray;56.165.175.235;17/01/2024 00:00;defender;trusted relationship
+814871;server_match;148.222.132.101;17/06/2024 00:00;crowdstrike;Replication through removable media
+959298;server_surge;17.226.8.95;10/06/2024 00:00;crowdstrike;valid accounts
+929240;name_glitch;217.254.136.82;02/02/2024 00:00;crowdstrike_cs;supply chain compromise
+911805;node_nectarine;168.104.59.94;23/06/2024 00:00;xpklnr;phising
+802569;connection_cacao;70.254.235.79;17/08/2024 00:00;crowdstrike;exploit public facing
+252183;name_stimulate;212.181.255.207;30/07/2024 00:00;crowdstrike_cs;content_injection
+382057;server_frenzy;139.170.97.22;11/09/2024 00:00;defender;content injection
+218630;server_horizon;102.145.229.227;17/04/2024 00:00;pxtrpf;phising
+356577;cloud_clover;41.122.113.78;18/09/2024 00:00;crowdstrike;external-remote-service
+515691;name_flash;27.158.154.116;24/08/2024 00:00;defender;valida_accounts
+121030;server_hype;52.154.94.15;06/01/2024 00:00;defender;Phising
+596935;cloud_clover;139.224.8.197;17/02/2024 00:00;pxtrpf;replication-through-removable-media
+281260;name_soar;255.61.194.85;15/01/2024 00:00;crowdstrike_cs;Phising
+547675;domain_daisy;87.3.75.80;14/02/2024 00:00;crowdstrike;phising
+74303;server_frenzy;195.181.27.3;18/08/2024 00:00;defender;content injection
+223917;server_spray;106.94.51.64;08/01/2024 00:00;crowdstrike_cs;content_injection
+121269;server_surge;17.226.8.95;19/03/2024 00:00;crowdstrike;trusted relationship
+994669;server_sonic;41.139.178.210;24/09/2024 00:00;xpklnr;supply chain compromise
+883862;network_narcissus;255.67.121.67;19/04/2024 00:00;defender;Replication through removable media
+108677;server_spray;106.94.51.64;27/02/2024 00:00;crowdstrike_cs;phising
+15364;name_stimulate;24.37.92.211;14/03/2024 00:00;xpklnr;trusted relationship
+533195;name_flu;119.132.254.128;20/07/2024 00:00;crowdstrike;supply chain compromise
+202346;programming_papaya;4.2.181.21;23/08/2024 00:00;pxtrpf;explaoit-public facing
+984434;server_match;98.87.105.173;08/07/2024 00:00;pxtrpf;external-remote-service
+875492;name_stimulate;24.37.92.211;03/08/2024 00:00;xpklnr;content injection
+309797;server_phoenix;173.115.197.63;16/04/2024 00:00;xpklnr;exploit public facing
+49314;server_phoenix;65.109.165.41;17/08/2024 00:00;crowdstrike;trusted relationship
+75466;server_serenade;99.111.27.245;29/03/2024 00:00;pxtrpf;supply chain compromise
+868338;name_stimulate;24.37.92.211;06/02/2024 00:00;xpklnr;external remote service
+103347;server_lynx;60.140.72.229;05/02/2024 00:00;pxtrpf;phising
+366600;name_quiver;122.53.91.87;24/05/2024 00:00;defender;Replication through removable media
+75892;server_frenzy;139.170.97.22;16/09/2024 00:00;defender;exploit public facing
+367225;logic_lemon;185.103.147.217;13/01/2024 00:00;pxtrpf;phising
+923023;name_spray;56.165.175.235;05/05/2024 00:00;defender;trusted relationship
+539763;name_flare;15.232.2.167;21/07/2024 00:00;crowdstrike_cs;phising
+63499;name_vault;17.216.166.29;15/07/2024 00:00;crowdstrike;content injection
+346962;server_utopia;204.42.170.106;08/06/2024 00:00;defender;Replication through removable media
+577753;name_vault;192.161.97.125;04/06/2024 00:00;xpklnr;Phising
+630296;server_spray;86.153.111.108;06/04/2024 00:00;crowdstrike_cs;supply chain compromise
+320147;node_nectarine;168.104.59.94;30/01/2024 00:00;xpklnr;valid accounts
+325140;spark_shrine;118.169.144.206;08/06/2024 00:00;pxtrpf;exploit public facing
+524697;connection_cacao;70.254.235.79;13/02/2024 00:00;crowdstrike;content injection
+876472;web_wonder;164.143.175.172;20/03/2024 00:00;crowdstrike_cs;drive-by-compromise
+541874;digital_dandelion;9.158.21.179;20/07/2024 00:00;pxtrpf;trusted relationship
+400833;digital_dandelion;9.158.21.179;17/08/2024 00:00;pxtrpf;Replication through removable media
+817077;name_flash;138.17.221.79;21/07/2024 00:00;defender;phising
+197323;byte_barn;121.172.132.47;15/09/2024 00:00;crowdstrike;Replication through removable media
+517009;logic_lemon;185.103.147.217;04/05/2024 00:00;pxtrpf;trusted relationship
+819802;server_spray;18.147.227.44;14/05/2024 00:00;crowdstrike;trusted-relationship
+173474;server_phoenix;173.115.197.63;27/05/2024 00:00;xpklnr;phising
+198697;server_hype;52.154.94.15;12/01/2024 00:00;defender;external-remote-service
+137875;address_artichoke;217.101.6.213;23/04/2024 00:00;pxtrpf;external remote service
+684434;servivio;189.197.179.58;07/06/2024 00:00;crowdstrike;phising
+880040;script_shrine;98.157.98.17;24/09/2024 00:00;crowdstrike;Replication through removable media
+829312;name_vault;137.127.174.143;28/02/2024 00:00;xpklnr;trusted relationship
+494028;server_utopia;204.42.170.106;16/07/2024 00:00;defender;supply chain compromise
+663392;name_flare;15.232.2.167;03/01/2024 00:00;crowdstrike_cs;trusted-relationship
+813895;name_vault;17.216.166.29;20/09/2024 00:00;crowdstrike;replication-through-removable-media
+781852;name_quiver;122.53.91.87;16/07/2024 00:00;defender;explaoit-public facing
+128190;system_spearmint;153.137.102.66;15/06/2024 00:00;pxtrpf;drive-by-compromise
+19202;server_phoenix;65.109.165.41;19/02/2024 00:00;crowdstrike;trusted-relationship
+920333;cloud_clover;134.213.33.248;01/06/2024 00:00;defender;external remote service
+518384;byte_barn;121.172.132.47;04/05/2024 00:00;crowdstrike;content injection
+67000;name_frenzy;107.249.124.117;14/08/2024 00:00;crowdstrike;trusted relationship
+20403;name_stimulate;212.181.255.207;12/05/2024 00:00;crowdstrike_cs;Replication through removable media
+293238;server_pulse;117.29.193.235;06/02/2024 00:00;crowdstrike_cs;trusted relationship
+239232;server_lynx;60.140.72.229;13/09/2024 00:00;pxtrpf;content injection
+997286;clever_server;175.252.189.78;03/05/2024 00:00;xpklnr;explaoit-public facing
+57680;connection_cacao;70.254.235.79;03/09/2024 00:00;crowdstrike;exploit public facing
+921847;server_spray;86.153.111.108;14/08/2024 00:00;crowdstrike_cs;Replication through removable media
+572538;spark_shrine;118.169.144.206;11/01/2024 00:00;pxtrpf;phising
+70665;cloud_clover;139.224.8.197;18/09/2024 00:00;pxtrpf;valid accounts
+802955;name_stimulate;212.181.255.207;27/06/2024 00:00;crowdstrike_cs;trusted relationship
+48102;server_spray;210.159.245.199;18/03/2024 00:00;pxtrpf;exploit public facing
+687831;digital_dandelion;9.158.21.179;12/03/2024 00:00;pxtrpf;supply chain compromise
+574426;server_sonic;41.139.178.210;19/09/2024 00:00;xpklnr;trusted relationship
+372454;computing_coriander;203.13.190.29;09/01/2024 00:00;defender;valid-accounts
+985401;server_spark;8.245.154.104;28/04/2024 00:00;pxtrpf;supply_chain_compromise
+373135;spark_shrine;118.169.144.206;14/01/2024 00:00;pxtrpf;content injection
+199006;domain_daisy;87.3.75.80;01/08/2024 00:00;crowdstrike;phising
+40278;server_seed;110.104.255.2;24/06/2024 00:00;pxtrpf;phising
+900375;name_spray;56.165.175.235;09/10/2024 00:00;defender;Replication through removable media
+22029;spark_shrine;187.24.234.40;04/05/2024 00:00;crowdstrike;phising
+425697;name_bounce;187.21.83.39;29/07/2024 00:00;pxtrpf;drive by compromise
+596516;name_bounce;205.212.155.232;12/03/2024 00:00;crowdstrike;phising
+151705;server_frenzy;139.170.97.22;26/08/2024 00:00;defender;trusted-relationship
+497196;server_aura;116.205.226.80;03/04/2024 00:00;pxtrpf;phising
+325342;server_surge;17.226.8.95;03/06/2024 00:00;crowdstrike;trusted relationship
+124039;cloud_clover;134.213.33.248;05/07/2024 00:00;defender;Replication through removable media
+744942;byte_basil;214.171.233.83;19/09/2024 00:00;defender;Replication through removable media
+3327;web_wonder;164.143.175.172;07/01/2024 00:00;crowdstrike_cs;external-remote-service
+329854;clever_server;175.252.189.78;15/02/2024 00:00;xpklnr;Replication through removable media
+661440;server_phoenix;65.109.165.41;12/06/2024 00:00;crowdstrike;content injection
+212663;server_hype;52.154.94.15;26/04/2024 00:00;defender;phising
+460831;address_artichoke;174.181.0.67;12/06/2024 00:00;crowdstrike;trusted relationship
+685681;name_bounce;205.212.155.232;23/04/2024 00:00;crowdstrike;explaoit-public facing
+947747;connection_cacao;70.254.235.79;18/04/2024 00:00;crowdstrike;phising
+607179;name_stimulate;24.37.92.211;21/08/2024 00:00;xpklnr;phising
+799794;server_spray;74.183.227.186;15/09/2024 00:00;xpklnr;drive-by-compromise
+325499;name_bounce;205.212.155.232;16/08/2024 00:00;crowdstrike;external remote service
+200149;host_hyacinth;156.84.177.39;03/01/2024 00:00;defender;trusted relationship
+266037;server_spray;210.159.245.199;08/07/2024 00:00;pxtrpf;external-remote-service
+85434;byte_beat;71.115.54.187;29/08/2024 00:00;crowdstrike_cs;exploit public facing
+822125;name_flare;15.232.2.167;18/07/2024 00:00;crowdstrike_cs;replication-through-removable-media
+461010;name_burst;135.3.178.19;21/01/2024 00:00;defender;phising
+542606;byte_barn;164.235.149.167;26/05/2024 00:00;xpklnr;external remote service
+218178;connection_cacao;15.201.87.20;21/03/2024 00:00;xpklnr;trusted-relationship
+320387;server_surge;244.101.196.83;24/01/2024 00:00;pxtrpf;phising
+437959;connection_cacao;15.201.87.20;15/07/2024 00:00;xpklnr;supply chain compromise
+207894;connection_cacao;70.254.235.79;09/07/2024 00:00;crowdstrike;supply_chain_compromise
+85771;name_stimulate;24.37.92.211;01/10/2024 00:00;xpklnr;explaoit-public facing
+10596;name_spray;56.165.175.235;16/06/2024 00:00;defender;trusted-relationship
+678655;server_surge;244.101.196.83;05/05/2024 00:00;pxtrpf;phising
+778235;server_frenzy;195.181.27.3;29/05/2024 00:00;defender;trusted relationship
+340971;name_stimulate;212.181.255.207;07/05/2024 00:00;crowdstrike_cs;drive by compromise
+617772;server_phoenix;173.115.197.63;23/08/2024 00:00;xpklnr;phising
+21464;name_bounce;187.21.83.39;31/01/2024 00:00;pxtrpf;external-remote-service
+46220;system_spearmint;153.137.102.66;23/03/2024 00:00;pxtrpf;trusted relationship
+618260;server_spray;106.94.51.64;12/03/2024 00:00;crowdstrike_cs;content injection
+557920;name_flash;138.17.221.79;26/05/2024 00:00;defender;Replication through removable media
+164848;name_spray;56.165.175.235;30/01/2024 00:00;defender;trusted relationship
+35819;programming_papaya;4.2.181.21;07/04/2024 00:00;pxtrpf;content_injection
+727710;name_flu;210.139.189.4;16/03/2024 00:00;pxtrpf;phising
+775499;server_sonic;14.84.69.230;31/07/2024 00:00;crowdstrike;content injection
+415451;clever_server;86.70.157.117;26/01/2024 00:00;crowdstrike;phising
+712545;system_spearmint;153.137.102.66;14/04/2024 00:00;pxtrpf;compromise (driveby)
+595088;script_shrine;181.75.227.93;21/01/2024 00:00;xpklnr;supply_chain_compromise
+517009;name_flash;27.158.154.116;26/04/2024 00:00;defender;trusted relationship
+790171;node_nest;122.139.122.39;01/08/2024 00:00;pxtrpf;phising
+183342;clever_server;86.70.157.117;27/04/2024 00:00;crowdstrike;content_injection
+2976;programming_papaya;4.2.181.21;25/06/2024 00:00;pxtrpf;trusted relationship
+961080;server_utopia;204.42.170.106;21/09/2024 00:00;defender;external-remote-service
+663578;logic_lemon;185.103.147.217;26/04/2024 00:00;pxtrpf;external remote service
+88397;spark_shrine;118.169.144.206;08/05/2024 00:00;pxtrpf;trusted relationship
+703723;server_spray;86.153.111.108;24/02/2024 00:00;crowdstrike_cs;supply chain compromise
+890926;server_phoenix;173.115.197.63;29/02/2024 00:00;xpklnr;content injection
+853929;servivio;202.30.35.66;06/02/2024 00:00;xpklnr;phising
+675934;automated_azalea;25.133.203.93;17/06/2024 00:00;crowdstrike;valida_accounts
+491139;programming_papaya;4.2.181.21;19/06/2024 00:00;pxtrpf;exploit public facing
+115076;connection_cacao;15.201.87.20;05/03/2024 00:00;xpklnr;Phising
+931968;server_spray;244.110.8.40;06/07/2024 00:00;xpklnr;valid accounts
+901639;byte_barn;164.235.149.167;14/06/2024 00:00;xpklnr;content_injection
+828820;clever_server;175.252.189.78;16/09/2024 00:00;xpklnr;content injection
+396903;node_nectarine;218.130.171.99;28/05/2024 00:00;crowdstrike;drive by compromise
+618451;clever_server;175.252.189.78;15/02/2024 00:00;xpklnr;replication-through-removable-media
+862147;domain_daisy;87.3.75.80;17/05/2024 00:00;crowdstrike;exploit public facing
+740558;system_spearmint;153.137.102.66;10/01/2024 00:00;pxtrpf;trusted relationship
+974781;server_surge;244.101.196.83;09/04/2024 00:00;pxtrpf;trusted relationship
+345596;byte_barn;164.235.149.167;29/08/2024 00:00;xpklnr;external remote service
+521973;connection_cacao;15.201.87.20;27/03/2024 00:00;xpklnr;trusted relationship
+895065;byte_brigade;216.143.218.34;23/09/2024 00:00;pxtrpf;drive by compromise
+879432;server_sprout;37.68.185.154;03/01/2024 00:00;defender;valid accounts
+134489;domain_daisy;87.3.75.80;08/01/2024 00:00;crowdstrike;phising
+295537;name_spray;56.165.175.235;13/07/2024 00:00;defender;external remote service
+850606;name_glitch;217.254.136.82;31/03/2024 00:00;crowdstrike_cs;valid-accounts
+789528;server_seed;110.104.255.2;07/03/2024 00:00;pxtrpf;valida_accounts
+743093;server_spray;74.183.227.186;23/06/2024 00:00;xpklnr;trusted relationship
+490810;server_sonic;254.140.235.133;25/06/2024 00:00;pxtrpf;Replication through removable media
+911504;name_soar;255.61.194.85;28/06/2024 00:00;crowdstrike_cs;Replication through removable media
+310926;servivio;189.197.179.58;27/01/2024 00:00;crowdstrike;trusted relationship
+43332;server_pulse;117.29.193.235;05/10/2024 00:00;crowdstrike_cs;content injection
+32289;name_spray;56.165.175.235;20/02/2024 00:00;defender;trusted relationship
+707032;name_spray;91.201.167.211;06/04/2024 00:00;pxtrpf;supply chain compromise
+618116;server_frenzy;139.170.97.22;26/05/2024 00:00;defender;exploit public facing
+783292;server_sprout;37.68.185.154;07/09/2024 00:00;defender;valid accounts
+101197;clever_server;175.252.189.78;25/01/2024 00:00;xpklnr;phising
+800248;servivio;189.197.179.58;19/06/2024 00:00;crowdstrike;exploit public facing
+105073;server_sonic;254.140.235.133;17/01/2024 00:00;pxtrpf;Replication through removable media
+312623;byte_barn;164.235.149.167;09/08/2024 00:00;xpklnr;Replication through removable media
+13467;server_spray;74.183.227.186;29/04/2024 00:00;xpklnr;replication-through-removable-media
+160403;computing_coriander;203.13.190.29;24/05/2024 00:00;defender;Replication through removable media
+319936;server_frenzy;195.181.27.3;27/04/2024 00:00;defender;drive by compromise
+1376;logic_lemon;185.103.147.217;11/06/2024 00:00;pxtrpf;exploit public facing
+419365;server_sonic;254.140.235.133;17/01/2024 00:00;pxtrpf;trusted relationship
+614095;server_spray;74.183.227.186;10/07/2024 00:00;xpklnr;supply_chain_compromise
+594477;network_narcissus;255.67.121.67;02/03/2024 00:00;defender;trusted relationship
+71421;address_artichoke;174.181.0.67;04/01/2024 00:00;crowdstrike;drive by compromise
+290095;clever_server;175.252.189.78;18/04/2024 00:00;xpklnr;drive by compromise
+849063;name_frenzy;16.38.120.153;03/05/2024 00:00;crowdstrike_cs;trusted relationship
+278418;name_flu;119.132.254.128;21/06/2024 00:00;crowdstrike;valid accounts
+244560;byte_basil;214.171.233.83;18/08/2024 00:00;defender;Phising
+143971;host_hyacinth;156.84.177.39;13/01/2024 00:00;defender;explaoit-public facing
+700571;name_frenzy;192.215.91.76;10/09/2024 00:00;xpklnr;drive by compromise
+80326;spark_shrine;118.169.144.206;22/09/2024 00:00;pxtrpf;valid-accounts
+874762;name_frenzy;192.215.91.76;21/06/2024 00:00;xpklnr;explaoit-public facing
+185921;server_summit;131.21.57.124;25/08/2024 00:00;pxtrpf;Phising
+760225;servivio;189.197.179.58;15/06/2024 00:00;crowdstrike;compromise (driveby)
+178380;info_island;178.29.247.13;21/07/2024 00:00;defender;phising
+342756;name_glitch;217.254.136.82;17/08/2024 00:00;crowdstrike_cs;trusted relationship
+828590;server_sprout;37.68.185.154;28/06/2024 00:00;defender;valida_accounts
+310398;server_spray;106.94.51.64;12/04/2024 00:00;crowdstrike_cs;Replication through removable media
+423638;server_spray;210.159.245.199;07/03/2024 00:00;pxtrpf;supply chain compromise
+762230;server_spray;86.153.111.108;14/02/2024 00:00;crowdstrike_cs;content injection
+385356;network_narcissus;255.67.121.67;11/05/2024 00:00;defender;drive by compromise
+140356;spark_shrine;254.89.186.11;12/03/2024 00:00;crowdstrike;phising
+265136;connection_cacao;15.201.87.20;16/06/2024 00:00;xpklnr;phising
+872074;byte_beat;71.115.54.187;02/05/2024 00:00;crowdstrike_cs;phising
+831198;name_vault;17.216.166.29;15/09/2024 00:00;crowdstrike;phising
+511699;name_glitch;217.254.136.82;13/08/2024 00:00;crowdstrike_cs;trusted relationship
+611720;name_frenzy;192.215.91.76;01/08/2024 00:00;xpklnr;Replication through removable media
+821049;name_frenzy;107.249.124.117;03/03/2024 00:00;crowdstrike;phising
+711462;script_shrine;98.157.98.17;27/06/2024 00:00;crowdstrike;exploit public facing
+306277;name_flash;27.158.154.116;22/06/2024 00:00;defender;content injection
+331423;cloud_clover;134.213.33.248;03/08/2024 00:00;defender;phising
+29949;server_hype;52.154.94.15;25/08/2024 00:00;defender;trusted relationship
+241061;server_seed;110.104.255.2;10/08/2024 00:00;pxtrpf;Replication through removable media
+425210;cloud_clover;139.224.8.197;03/04/2024 00:00;pxtrpf;exploit public facing
+841799;name_flare;73.80.176.177;02/06/2024 00:00;xpklnr;content_injection
+872283;servelite;185.213.217.250;07/06/2024 00:00;pxtrpf;trusted relationship
+200613;server_frenzy;195.181.27.3;01/08/2024 00:00;defender;valid-accounts
+129438;connection_cacao;70.254.235.79;13/09/2024 00:00;crowdstrike;phising
+378894;server_pro;137.220.249.174;16/03/2024 00:00;defender;trusted relationship
+654355;name_flare;73.80.176.177;01/08/2024 00:00;xpklnr;phising
+217981;server_sonic;41.139.178.210;10/10/2024 00:00;xpklnr;content injection
+591964;server_utopia;204.42.170.106;10/10/2024 00:00;defender;Replication through removable media
+721252;byte_beat;71.115.54.187;06/06/2024 00:00;crowdstrike_cs;trusted relationship
+826254;servivio;189.197.179.58;19/07/2024 00:00;crowdstrike;drive-by-compromise
+976607;digital_dandelion;9.158.21.179;05/08/2024 00:00;pxtrpf;Replication through removable media
+822342;byte_beat;71.115.54.187;07/01/2024 00:00;crowdstrike_cs;content_injection
+925456;domain_daisy;89.139.158.117;06/02/2024 00:00;pxtrpf;valid accounts
+125107;name_bounce;187.21.83.39;11/07/2024 00:00;pxtrpf;explaoit-public facing
+870780;name_flu;210.139.189.4;15/07/2024 00:00;pxtrpf;Phising
+962508;server_lynx;60.140.72.229;05/03/2024 00:00;pxtrpf;exploit public facing
+580103;cloud_clover;139.224.8.197;28/06/2024 00:00;pxtrpf;phising
+928808;script_shrine;181.75.227.93;28/04/2024 00:00;xpklnr;trusted relationship
+484731;server_summit;131.21.57.124;29/03/2024 00:00;pxtrpf;compromise (driveby)
+142466;server_utopia;204.42.170.106;29/01/2024 00:00;defender;valid-accounts
+316065;name_vault;38.227.62.100;05/04/2024 00:00;crowdstrike;trusted relationship
+113193;server_spark;8.245.154.104;18/02/2024 00:00;pxtrpf;trusted relationship
+393573;server_aura;116.205.226.80;03/04/2024 00:00;pxtrpf;valida_accounts
+975236;web_wonder;164.143.175.172;21/09/2024 00:00;crowdstrike_cs;phising
+241921;name_rave;190.13.109.124;15/06/2024 00:00;defender;phising
+545030;name_soar;255.61.194.85;22/06/2024 00:00;crowdstrike_cs;Replication through removable media
+942246;server_utopia;204.42.170.106;08/08/2024 00:00;defender;trusted relationship
+584230;server_aura;116.205.226.80;05/02/2024 00:00;pxtrpf;Phising
+364399;network_narcissus;255.67.121.67;21/02/2024 00:00;defender;trusted relationship
+16638;server_sprout;37.68.185.154;28/02/2024 00:00;defender;trusted relationship
+148277;system_spearmint;153.137.102.66;28/03/2024 00:00;pxtrpf;supply_chain_compromise
+91403;clever_server;86.70.157.117;02/06/2024 00:00;crowdstrike;content_injection
+422590;info_island;178.29.247.13;23/09/2024 00:00;defender;drive by compromise
+790683;name_vault;38.227.62.100;21/07/2024 00:00;crowdstrike;content injection
+684820;node_nest;122.139.122.39;06/04/2024 00:00;pxtrpf;trusted relationship
+21983;name_burst;135.3.178.19;06/03/2024 00:00;defender;phising
+340180;address_artichoke;217.101.6.213;19/06/2024 00:00;pxtrpf;Replication through removable media
+372996;server_hype;52.154.94.15;10/01/2024 00:00;defender;supply chain compromise
+73478;byte_basil;214.171.233.83;12/03/2024 00:00;defender;valid accounts
+741989;server_sonic;14.84.69.230;03/09/2024 00:00;crowdstrike;trusted relationship
+71239;name_flu;210.139.189.4;16/04/2024 00:00;pxtrpf;trusted-relationship
+643425;byte_barn;121.172.132.47;27/06/2024 00:00;crowdstrike;phising
+554720;address_artichoke;118.123.166.144;13/07/2024 00:00;defender;replication-through-removable-media
+454629;servelite;194.172.44.80;01/05/2024 00:00;crowdstrike;Replication through removable media
+725580;server_pulse;117.29.193.235;02/03/2024 00:00;crowdstrike_cs;valida_accounts
+73531;server_match;148.222.132.101;08/02/2024 00:00;crowdstrike;replication-through-removable-media
+331480;server_phoenix;83.219.207.96;28/06/2024 00:00;xpklnr;trusted relationship
+331368;computing_coriander;203.13.190.29;26/08/2024 00:00;defender;supply chain compromise
+726545;server_hype;52.154.94.15;17/05/2024 00:00;defender;trusted relationship
+538154;server_spray;210.159.245.199;13/02/2024 00:00;pxtrpf;external-remote-service
+471203;name_rave;190.13.109.124;03/10/2024 00:00;defender;explaoit-public facing
+511197;byte_barn;164.235.149.167;14/05/2024 00:00;xpklnr;supply chain compromise
+924256;domain_daisy;87.3.75.80;12/09/2024 00:00;crowdstrike;external-remote-service
+565537;script_shrine;98.157.98.17;26/08/2024 00:00;crowdstrike;exploit public facing
+84094;name_flash;138.17.221.79;07/03/2024 00:00;defender;exploit public facing
+519364;spark_shrine;N;06/02/2024 00:00;crowdstrike;Replication through removable media
+711123;server_pulse;117.29.193.235;19/07/2024 00:00;crowdstrike_cs;content_injection
+865256;address_artichoke;118.123.166.144;31/01/2024 00:00;defender;Replication through removable media
+620486;servelite;185.213.217.250;10/10/2024 00:00;pxtrpf;trusted relationship
+911820;server_phoenix;65.109.165.41;21/06/2024 00:00;crowdstrike;exploit public facing
+88890;name_vault;192.161.97.125;07/02/2024 00:00;xpklnr;exploit public facing
+324253;clever_server;175.252.189.78;21/06/2024 00:00;xpklnr;exploit public facing
+489504;name_stimulate;24.37.92.211;03/05/2024 00:00;xpklnr;trusted relationship
+925164;name_stimulate;212.181.255.207;08/03/2024 00:00;crowdstrike_cs;content injection
+373389;byte_barn;164.235.149.167;27/03/2024 00:00;xpklnr;exploit public facing
+535361;server_sprout;37.68.185.154;06/10/2024 00:00;defender;valida_accounts
+498084;server_pro;137.220.249.174;01/04/2024 00:00;defender;trusted relationship
+780578;server_phoenix;85.153.99.255;11/09/2024 00:00;crowdstrike;trusted relationship
+170515;name_flash;138.17.221.79;26/06/2024 00:00;defender;content injection
+103209;server_spark;8.245.154.104;24/07/2024 00:00;pxtrpf;phising
+769370;name_vault;17.216.166.29;12/02/2024 00:00;crowdstrike;supply chain compromise
+160962;server_phoenix;173.115.197.63;22/07/2024 00:00;xpklnr;supply_chain_compromise
+65551;automated_azalea;42.46.70.0;03/01/2024 00:00;xpklnr;valid accounts
+301717;byte_brigade;216.143.218.34;07/06/2024 00:00;pxtrpf;supply_chain_compromise
+195477;server_match;98.87.105.173;28/07/2024 00:00;pxtrpf;trusted-relationship
+704914;server_spray;106.94.51.64;06/07/2024 00:00;crowdstrike_cs;trusted relationship
+854084;name_vault;137.127.174.143;07/03/2024 00:00;xpklnr;supply chain compromise
+336588;cloud_clover;41.122.113.78;17/03/2024 00:00;crowdstrike;trusted-relationship
+994599;server_boost;59.218.102.145;09/08/2024 00:00;crowdstrike_cs;phising
+874748;server_utopia;204.42.170.106;06/05/2024 00:00;defender;valid accounts
+620033;name_vault;192.161.97.125;14/06/2024 00:00;xpklnr;phising
+908842;name_vault;17.216.166.29;15/05/2024 00:00;crowdstrike;Replication through removable media
+586328;name_burst;135.3.178.19;01/09/2024 00:00;defender;trusted relationship
+211225;cloud_clover;139.224.8.197;31/05/2024 00:00;pxtrpf;content injection
+200284;server_phoenix;173.115.197.63;11/03/2024 00:00;xpklnr;valida_accounts
+190798;domain_daisy;87.3.75.80;06/05/2024 00:00;crowdstrike;content injection
+371725;name_flu;119.132.254.128;30/05/2024 00:00;crowdstrike;exploit public facing
+597643;server_spray;244.110.8.40;25/03/2024 00:00;xpklnr;content injection
+625636;server_match;98.87.105.173;22/03/2024 00:00;pxtrpf;content injection
+220849;server_summit;131.21.57.124;21/07/2024 00:00;pxtrpf;phising
+450451;address_artichoke;174.181.0.67;13/01/2024 00:00;crowdstrike;external remote service
+801941;server_aura;116.205.226.80;04/01/2024 00:00;pxtrpf;phising
+891177;server_summit;131.21.57.124;03/10/2024 00:00;pxtrpf;phising
+68938;automated_azalea;42.46.70.0;10/09/2024 00:00;xpklnr;compromise (driveby)
+989662;name_burst;135.3.178.19;15/02/2024 00:00;defender;valid-accounts
+754208;server_surge;244.101.196.83;10/03/2024 00:00;pxtrpf;phising
+571846;server_sonic;41.139.178.210;24/08/2024 00:00;xpklnr;trusted-relationship
+263803;spark_shrine;187.24.234.40;19/07/2024 00:00;crowdstrike;valid accounts
+639866;automated_azalea;42.46.70.0;04/03/2024 00:00;xpklnr;phising
+388040;address_artichoke;174.181.0.67;19/03/2024 00:00;crowdstrike;content injection
+369236;spark_shrine;254.89.186.11;17/08/2024 00:00;crowdstrike;trusted relationship
+90520;server_summit;36.209.179.4;14/03/2024 00:00;crowdstrike;replication-through-removable-media
+926663;spark_shrine;254.89.186.11;09/05/2024 00:00;crowdstrike;trusted relationship
+344162;servelite;185.213.217.250;22/09/2024 00:00;pxtrpf;replication-through-removable-media
+50727;name_frenzy;107.249.124.117;16/01/2024 00:00;crowdstrike;trusted-relationship
+501900;connection_cacao;15.201.87.20;25/03/2024 00:00;xpklnr;trusted relationship
+454509;spark_shrine;248.173.207.185;03/01/2024 00:00;xpklnr;supply chain compromise
+133518;server_match;98.87.105.173;12/05/2024 00:00;pxtrpf;content_injection
+7713;programming_papaya;4.2.181.21;07/03/2024 00:00;pxtrpf;supply chain compromise
+251954;connection_cacao;15.201.87.20;28/06/2024 00:00;xpklnr;supply chain compromise
+653893;server_spark;8.245.154.104;10/03/2024 00:00;pxtrpf;supply chain compromise
+999720;web_wonder;164.143.175.172;18/08/2024 00:00;crowdstrike_cs;valid-accounts
+701478;server_spray;244.110.8.40;10/02/2024 00:00;xpklnr;external remote service
+267971;byte_brigade;216.143.218.34;21/05/2024 00:00;pxtrpf;content injection
+398349;server_phoenix;83.219.207.96;17/09/2024 00:00;xpklnr;exploit public facing
+163295;server_spray;106.94.51.64;21/08/2024 00:00;crowdstrike_cs;phising
+805377;name_vault;38.227.62.100;01/02/2024 00:00;crowdstrike;content_injection
+288313;server_summit;131.21.57.124;24/06/2024 00:00;pxtrpf;valid-accounts
+867139;byte_basil;214.171.233.83;08/05/2024 00:00;defender;valid accounts
+977086;name_glitch;217.254.136.82;19/04/2024 00:00;crowdstrike_cs;compromise (driveby)
+937588;server_sonic;254.140.235.133;10/05/2024 00:00;pxtrpf;trusted relationship
+122292;name_flash;138.17.221.79;16/03/2024 00:00;defender;trusted relationship
+930215;name_bounce;187.21.83.39;25/05/2024 00:00;pxtrpf;replication-through-removable-media
+641593;server_summit;131.21.57.124;12/03/2024 00:00;pxtrpf;drive by compromise
+82224;cloud_clover;139.224.8.197;09/04/2024 00:00;pxtrpf;external remote service
+485349;server_phoenix;85.153.99.255;03/01/2024 00:00;crowdstrike;supply chain compromise
+277787;server_surge;244.101.196.83;25/09/2024 00:00;pxtrpf;exploit public facing
+565969;clever_server;175.252.189.78;12/01/2024 00:00;xpklnr;valid accounts
+294763;cloud_clover;41.122.113.78;15/06/2024 00:00;crowdstrike;exploit public facing
+233479;server_serenade;99.111.27.245;25/07/2024 00:00;pxtrpf;Replication through removable media
+550618;script_shrine;181.75.227.93;20/03/2024 00:00;xpklnr;trusted relationship
+979361;name_frenzy;107.249.124.117;21/09/2024 00:00;crowdstrike;replication-through-removable-media
+96803;name_frenzy;192.215.91.76;23/05/2024 00:00;xpklnr;Phising
+46905;address_artichoke;118.123.166.144;07/10/2024 00:00;defender;drive-by-compromise
+869721;address_artichoke;174.181.0.67;06/10/2024 00:00;crowdstrike;valida_accounts
+129414;connection_cacao;70.254.235.79;12/04/2024 00:00;crowdstrike;external-remote-service
+732992;servivio;189.197.179.58;29/07/2024 00:00;crowdstrike;content injection
+189646;name_vault;17.216.166.29;28/04/2024 00:00;crowdstrike;content injection
+863575;name_flare;73.80.176.177;07/06/2024 00:00;xpklnr;valid-accounts
+981206;script_shrine;181.75.227.93;14/03/2024 00:00;xpklnr;trusted relationship
+64944;automated_azalea;42.46.70.0;15/03/2024 00:00;xpklnr;phising
+974197;web_wonder;164.143.175.172;03/03/2024 00:00;crowdstrike_cs;trusted-relationship
+619234;server_spray;86.153.111.108;01/02/2024 00:00;crowdstrike_cs;external remote service
+78234;name_burst;135.3.178.19;30/07/2024 00:00;defender;Replication through removable media
+330132;name_flare;15.232.2.167;25/01/2024 00:00;crowdstrike_cs;exploit public facing
+76026;server_sonic;254.140.235.133;24/01/2024 00:00;pxtrpf;drive by compromise
+62365;name_vault;137.127.174.143;01/05/2024 00:00;xpklnr;phising
+581251;cloud_clover;139.224.8.197;10/07/2024 00:00;pxtrpf;supply_chain_compromise
+403740;server_sonic;41.139.178.210;25/04/2024 00:00;xpklnr;compromise (driveby)
+118519;byte_beat;71.115.54.187;29/09/2024 00:00;crowdstrike_cs;trusted relationship
+103729;server_utopia;204.42.170.106;25/04/2024 00:00;defender;external remote service
+275814;server_utopia;204.42.170.106;14/06/2024 00:00;defender;Replication through removable media
+91447;connection_cacao;70.254.235.79;17/01/2024 00:00;crowdstrike;valida_accounts
+621101;domain_daisy;87.3.75.80;10/08/2024 00:00;crowdstrike;phising
+883996;connection_cacao;70.254.235.79;19/04/2024 00:00;crowdstrike;drive-by-compromise
+684922;byte_brigade;216.143.218.34;05/07/2024 00:00;pxtrpf;drive-by-compromise
+566760;server_pro;137.220.249.174;16/04/2024 00:00;defender;trusted relationship
+458892;byte_barn;121.172.132.47;08/04/2024 00:00;crowdstrike;external-remote-service
+912112;name_spray;56.165.175.235;15/03/2024 00:00;defender;phising
+231940;server_sprout;37.68.185.154;02/03/2024 00:00;defender;trusted-relationship
+771222;address_artichoke;174.181.0.67;22/01/2024 00:00;crowdstrike;drive-by-compromise
+34915;automated_azalea;42.46.70.0;16/05/2024 00:00;xpklnr;supply chain compromise
+30383;address_artichoke;118.123.166.144;25/07/2024 00:00;defender;phising
+733982;name_bounce;205.212.155.232;17/04/2024 00:00;crowdstrike;exploit public facing
+269454;servivio;189.197.179.58;22/02/2024 00:00;crowdstrike;phising
+826421;host_hyacinth;156.84.177.39;14/04/2024 00:00;defender;content_injection
+782177;clever_server;86.70.157.117;06/08/2024 00:00;crowdstrike;phising
+993057;server_phoenix;173.115.197.63;14/01/2024 00:00;xpklnr;phising
+504292;domain_daisy;87.3.75.80;02/07/2024 00:00;crowdstrike;exploit public facing
+320098;byte_barn;164.235.149.167;13/08/2024 00:00;xpklnr;drive by compromise
+738863;server_spray;74.183.227.186;13/06/2024 00:00;xpklnr;phising
+300801;server_sonic;254.140.235.133;03/09/2024 00:00;pxtrpf;trusted relationship
+27683;name_frenzy;192.215.91.76;05/01/2024 00:00;xpklnr;trusted relationship
+262622;server_seed;110.104.255.2;04/06/2024 00:00;pxtrpf;trusted relationship
+704077;address_artichoke;174.181.0.67;21/07/2024 00:00;crowdstrike;phising
+681640;byte_basil;214.171.233.83;02/10/2024 00:00;defender;trusted relationship
+230429;server_spray;18.147.227.44;02/04/2024 00:00;crowdstrike;Replication through removable media
+392318;server_sprout;37.68.185.154;21/06/2024 00:00;defender;phising
+411535;server_orbit;3.100.110.193;03/01/2024 00:00;defender;Replication through removable media
+527953;name_spray;56.165.175.235;02/05/2024 00:00;defender;supply chain compromise
+559228;server_lynx;60.140.72.229;04/06/2024 00:00;pxtrpf;trusted relationship
+84715;name_flare;73.80.176.177;07/02/2024 00:00;xpklnr;valid-accounts
+764223;domain_daisy;89.139.158.117;12/07/2024 00:00;pxtrpf;content injection
+207050;name_spray;56.165.175.235;28/05/2024 00:00;defender;external remote service
+516128;name_frenzy;192.215.91.76;23/02/2024 00:00;xpklnr;phising
+302361;spark_shrine;254.89.186.11;11/01/2024 00:00;crowdstrike;trusted relationship
+878686;computing_coriander;203.13.190.29;22/08/2024 00:00;defender;exploit public facing
+525814;name_burst;135.3.178.19;28/04/2024 00:00;defender;exploit public facing
+407144;server_surge;244.101.196.83;18/04/2024 00:00;pxtrpf;content injection
+458436;name_flash;138.17.221.79;15/04/2024 00:00;defender;trusted relationship
+158369;spark_shrine;254.89.186.11;12/06/2024 00:00;crowdstrike;trusted relationship
+736393;name_stimulate;212.181.255.207;06/04/2024 00:00;crowdstrike_cs;Replication through removable media
+913905;name_bounce;187.21.83.39;07/01/2024 00:00;pxtrpf;valid-accounts
+115835;server_horizon;30.91.109.221;02/09/2024 00:00;crowdstrike;replication-through-removable-media
+260046;name_flare;15.232.2.167;12/03/2024 00:00;crowdstrike_cs;trusted-relationship
+197455;server_spray;86.153.111.108;22/07/2024 00:00;crowdstrike_cs;trusted relationship
+946229;web_wonder;164.143.175.172;07/10/2024 00:00;crowdstrike_cs;supply chain compromise
+53525;spark_shrine;248.173.207.185;11/08/2024 00:00;xpklnr;valid accounts
+801319;server_sonic;14.84.69.230;07/06/2024 00:00;crowdstrike;content injection
+192472;server_orbit;3.100.110.193;08/07/2024 00:00;defender;trusted relationship
+138789;server_spray;74.183.227.186;10/06/2024 00:00;xpklnr;drive-by-compromise
+486126;server_phoenix;173.115.197.63;30/03/2024 00:00;xpklnr;drive-by-compromise
+566313;name_vault;137.127.174.143;01/05/2024 00:00;xpklnr;valid accounts
+225981;name_frenzy;192.215.91.76;05/09/2024 00:00;xpklnr;trusted relationship
+381243;address_artichoke;118.123.166.144;21/02/2024 00:00;defender;valid-accounts
+705377;cloud_clover;139.224.8.197;09/07/2024 00:00;pxtrpf;phising
+882932;cloud_clover;41.122.113.78;19/07/2024 00:00;crowdstrike;Replication through removable media
+829084;servelite;194.172.44.80;08/10/2024 00:00;crowdstrike;supply chain compromise
+801812;address_artichoke;174.181.0.67;11/09/2024 00:00;crowdstrike;trusted relationship
+758898;name_stimulate;24.37.92.211;30/06/2024 00:00;xpklnr;trusted relationship
+214586;server_match;98.87.105.173;16/06/2024 00:00;pxtrpf;trusted relationship
+872666;name_bounce;205.212.155.232;16/07/2024 00:00;crowdstrike;external remote service
+731329;servelite;185.213.217.250;02/05/2024 00:00;pxtrpf;phising
+403665;server_hype;52.154.94.15;12/02/2024 00:00;defender;phising
+840276;name_flare;73.80.176.177;06/07/2024 00:00;xpklnr;valid accounts
+634278;node_nest;122.139.122.39;13/01/2024 00:00;pxtrpf;drive by compromise
+801131;script_shrine;98.157.98.17;11/02/2024 00:00;crowdstrike;valid-accounts
+779130;automated_azalea;42.46.70.0;02/04/2024 00:00;xpklnr;external-remote-service
+647391;servivio;189.197.179.58;05/09/2024 00:00;crowdstrike;drive-by-compromise
+274038;server_phoenix;83.219.207.96;14/04/2024 00:00;xpklnr;trusted relationship
+882408;domain_daisy;87.3.75.80;25/05/2024 00:00;crowdstrike;replication-through-removable-media
+379245;name_vault;192.161.97.125;01/09/2024 00:00;xpklnr;drive by compromise
+46053;server_lynx;60.140.72.229;14/09/2024 00:00;pxtrpf;compromise (driveby)
+570905;server_pro;137.220.249.174;31/03/2024 00:00;null;drive-by-compromise
+643639;name_soar;255.61.194.85;06/08/2024 00:00;crowdstrike_cs;trusted-relationship
+127676;address_artichoke;118.123.166.144;24/09/2024 00:00;defender;content_injection
+552050;server_phoenix;83.219.207.96;20/08/2024 00:00;xpklnr;phising
+813208;server_boost;59.218.102.145;16/08/2024 00:00;crowdstrike_cs;Replication through removable media
+301543;programming_papaya;4.2.181.21;05/07/2024 00:00;pxtrpf;content injection
+914584;info_island;178.29.247.13;20/03/2024 00:00;defender;content_injection
+572289;server_aura;116.205.226.80;11/08/2024 00:00;pxtrpf;exploit public facing
+350111;server_pro;137.220.249.174;26/02/2024 00:00;defender;exploit public facing
+663065;server_spray;86.153.111.108;28/09/2024 00:00;null;valid-accounts
+616265;name_bounce;205.212.155.232;01/04/2024 00:00;crowdstrike;trusted relationship
+940911;info_island;178.29.247.13;28/06/2024 00:00;defender;compromise (driveby)
+879304;name_bounce;187.21.83.39;25/09/2024 00:00;pxtrpf;valid accounts
+1966;web_wonder;164.143.175.172;28/08/2024 00:00;crowdstrike_cs;drive-by-compromise
+598104;logic_lemon;185.103.147.217;11/03/2024 00:00;pxtrpf;content injection
+943214;server_match;148.222.132.101;16/08/2024 00:00;crowdstrike;trusted relationship
+86581;clever_server;86.70.157.117;08/03/2024 00:00;crowdstrike;phising
+364756;connection_cacao;70.254.235.79;19/02/2024 00:00;crowdstrike;phising
+709640;name_rave;190.13.109.124;23/03/2024 00:00;defender;drive by compromise
+268165;computing_coriander;203.13.190.29;20/02/2024 00:00;defender;trusted-relationship
+140659;server_sonic;14.84.69.230;01/02/2024 00:00;crowdstrike;content injection
+677482;domain_daisy;89.139.158.117;13/02/2024 00:00;pxtrpf;phising
+5035;name_frenzy;16.38.120.153;13/06/2024 00:00;crowdstrike_cs;external-remote-service
+1846;name_bounce;187.21.83.39;22/09/2024 00:00;pxtrpf;exploit public facing
+227068;name_spray;56.165.175.235;19/09/2024 00:00;defender;trusted relationship
+507901;server_summit;36.209.179.4;17/05/2024 00:00;crowdstrike;trusted relationship
+774383;domain_daisy;89.139.158.117;25/03/2024 00:00;pxtrpf;trusted relationship
+626197;server_frenzy;139.170.97.22;10/01/2024 00:00;defender;drive by compromise
+271116;name_vault;192.161.97.125;02/08/2024 00:00;xpklnr;content injection
+322201;automated_azalea;42.46.70.0;24/03/2024 00:00;xpklnr;Phising
+12660;logic_lemon;185.103.147.217;12/06/2024 00:00;pxtrpf;Replication through removable media
+163760;name_frenzy;107.249.124.117;06/03/2024 00:00;crowdstrike;replication-through-removable-media
+537316;programming_papaya;4.2.181.21;10/07/2024 00:00;pxtrpf;phising
+461999;name_spray;56.165.175.235;06/05/2024 00:00;defender;Replication through removable media
+720204;name_flash;27.158.154.116;29/07/2024 00:00;defender;Replication through removable media
+337519;script_shrine;98.157.98.17;15/04/2024 00:00;crowdstrike;phising
+421940;connection_cacao;15.201.87.20;16/01/2024 00:00;xpklnr;phising
+96587;servivio;202.30.35.66;23/05/2024 00:00;xpklnr;Phising
+157346;host_hyacinth;156.84.177.39;25/06/2024 00:00;defender;exploit public facing
+756240;server_utopia;204.42.170.106;16/08/2024 00:00;defender;Replication through removable media
+578835;network_narcissus;255.67.121.67;30/08/2024 00:00;defender;trusted relationship
+462324;spark_shrine;118.169.144.206;17/07/2024 00:00;pxtrpf;valida_accounts
+855652;server_spray;74.183.227.186;11/07/2024 00:00;xpklnr;valid accounts
+214587;node_nest;122.139.122.39;03/01/2024 00:00;null;valida_accounts
+542051;network_narcissus;255.67.121.67;29/09/2024 00:00;defender;exploit public facing
+426666;servelite;194.172.44.80;02/04/2024 00:00;crowdstrike;phising
+903187;cloud_clover;134.213.33.248;10/08/2024 00:00;defender;content injection
+168308;address_artichoke;174.181.0.67;17/06/2024 00:00;crowdstrike;Phising
+77870;server_serenade;99.111.27.245;26/01/2024 00:00;pxtrpf;exploit public facing
+476323;name_stimulate;212.181.255.207;05/02/2024 00:00;crowdstrike_cs;supply_chain_compromise
+770003;name_spray;56.165.175.235;12/02/2024 00:00;defender;content injection
+602519;address_artichoke;217.101.6.213;25/03/2024 00:00;pxtrpf;exploit public facing
+834388;name_spray;91.201.167.211;06/09/2024 00:00;pxtrpf;valid-accounts
+473643;server_surge;244.101.196.83;15/06/2024 00:00;pxtrpf;trusted relationship
+195486;name_rave;190.13.109.124;19/09/2024 00:00;defender;Phising
+461638;byte_barn;164.235.149.167;04/04/2024 00:00;xpklnr;phising
+404646;name_spray;56.165.175.235;23/09/2024 00:00;defender;drive by compromise
+992484;server_pro;137.220.249.174;10/08/2024 00:00;defender;content injection
+118611;name_frenzy;16.38.120.153;22/01/2024 00:00;crowdstrike_cs;phising
+163448;automated_azalea;25.133.203.93;12/06/2024 00:00;crowdstrike;drive by compromise
+706325;name_flu;119.132.254.128;27/05/2024 00:00;crowdstrike;trusted relationship
+553180;name_vault;137.127.174.143;03/04/2024 00:00;xpklnr;supply_chain_compromise
+416511;server_match;148.222.132.101;27/03/2024 00:00;crowdstrike;phising
+325267;server_summit;131.21.57.124;07/02/2024 00:00;null;replication-through-removable-media
+589859;name_glitch;217.254.136.82;13/09/2024 00:00;crowdstrike_cs;exploit public facing
+66819;server_spray;74.183.227.186;04/07/2024 00:00;xpklnr;valid-accounts
+575511;spark_shrine;248.173.207.185;30/07/2024 00:00;xpklnr;phising
+752473;name_quiver;122.53.91.87;18/06/2024 00:00;defender;exploit public facing
+930719;name_glitch;217.254.136.82;22/09/2024 00:00;crowdstrike_cs;trusted relationship
+849066;spark_shrine;187.24.234.40;22/09/2024 00:00;crowdstrike;valid-accounts
+528436;name_burst;135.3.178.19;22/08/2024 00:00;defender;exploit public facing
+681912;servivio;189.197.179.58;09/07/2024 00:00;crowdstrike;
+375837;name_vault;17.216.166.29;12/04/2024 00:00;crowdstrike;trusted relationship
+415892;cloud_clover;41.122.113.78;15/01/2024 00:00;crowdstrike;trusted relationship
+898364;byte_beat;71.115.54.187;26/04/2024 00:00;crowdstrike_cs;Replication through removable media
+449592;name_stimulate;24.37.92.211;15/07/2024 00:00;xpklnr;drive by compromise
+403556;address_artichoke;118.123.166.144;23/06/2024 00:00;defender;phising
+307178;server_sonic;14.84.69.230;27/07/2024 00:00;crowdstrike;phising
+951472;server_match;98.87.105.173;19/02/2024 00:00;pxtrpf;Phising
+443060;cloud_clover;139.224.8.197;15/01/2024 00:00;pxtrpf;valid-accounts
+775862;server_sonic;254.140.235.133;03/01/2024 00:00;pxtrpf;explaoit-public facing
+164623;server_sonic;41.139.178.210;08/01/2024 00:00;xpklnr;supply chain compromise
+899443;name_quiver;122.53.91.87;13/07/2024 00:00;defender;trusted relationship
+131002;server_summit;36.209.179.4;08/06/2024 00:00;crowdstrike;Replication through removable media
+868869;name_stimulate;212.181.255.207;23/03/2024 00:00;crowdstrike_cs;phising
+749263;name_glitch;217.254.136.82;01/03/2024 00:00;crowdstrike_cs;drive-by-compromise
+171985;server_sonic;14.84.69.230;09/08/2024 00:00;crowdstrike;compromise (driveby)
+284591;node_nectarine;218.130.171.99;08/01/2024 00:00;crowdstrike;content injection
+537848;spark_shrine;187.24.234.40;06/05/2024 00:00;crowdstrike;replication-through-removable-media
+849405;servivio;189.197.179.58;13/05/2024 00:00;crowdstrike;external remote service
+660544;server_sonic;14.84.69.230;23/04/2024 00:00;crowdstrike;supply_chain_compromise
+25128;server_orbit;3.100.110.193;11/05/2024 00:00;defender;content injection
+113460;clever_server;175.252.189.78;27/04/2024 00:00;xpklnr;content_injection
+568867;address_artichoke;217.101.6.213;03/08/2024 00:00;pxtrpf;trusted relationship
+731795;server_match;98.87.105.173;02/02/2024 00:00;pxtrpf;phising
+570603;server_surge;17.226.8.95;08/06/2024 00:00;crowdstrike;replication-through-removable-media
+224563;name_vault;192.161.97.125;15/09/2024 00:00;xpklnr;supply_chain_compromise
+987335;connection_cacao;70.254.235.79;14/06/2024 00:00;crowdstrike;external-remote-service
+125116;server_phoenix;173.115.197.63;31/07/2024 00:00;xpklnr;valid accounts
+512074;server_seed;110.104.255.2;03/01/2024 00:00;pxtrpf;trusted relationship
+221662;name_stimulate;24.37.92.211;20/04/2024 00:00;xpklnr;supply_chain_compromise
+182485;spark_shrine;118.169.144.206;24/09/2024 00:00;pxtrpf;supply chain compromise
+410267;spark_shrine;187.24.234.40;30/07/2024 00:00;crowdstrike;drive by compromise
+642674;web_wonder;164.143.175.172;13/07/2024 00:00;crowdstrike_cs;replication-through-removable-media
+484416;byte_brigade;216.143.218.34;11/03/2024 00:00;pxtrpf;content injection
+335364;domain_daisy;89.139.158.117;07/03/2024 00:00;pxtrpf;phising
+650255;name_flu;210.139.189.4;02/02/2024 00:00;pxtrpf;Replication through removable media
+361664;byte_brigade;216.143.218.34;02/07/2024 00:00;pxtrpf;content_injection
+630807;node_nectarine;218.130.171.99;22/06/2024 00:00;crowdstrike;supply_chain_compromise
+64402;web_wonder;164.143.175.172;13/01/2024 00:00;crowdstrike_cs;phising
+486478;server_match;98.87.105.173;09/01/2024 00:00;pxtrpf;trusted relationship
+12802;info_island;178.29.247.13;19/02/2024 00:00;defender;valid-accounts
+856056;host_hyacinth;156.84.177.39;25/01/2024 00:00;defender;phising
+761553;name_rave;190.13.109.124;23/07/2024 00:00;defender;Replication through removable media
+559249;server_boost;59.218.102.145;19/05/2024 00:00;crowdstrike_cs;trusted relationship
+678365;server_sprout;37.68.185.154;02/09/2024 00:00;defender;trusted relationship
+491129;connection_cacao;15.201.87.20;18/01/2024 00:00;xpklnr;content_injection
+777981;server_pulse;117.29.193.235;06/08/2024 00:00;crowdstrike_cs;phising
+272787;digital_dandelion;9.158.21.179;03/04/2024 00:00;pxtrpf;trusted-relationship
+164054;server_surge;244.101.196.83;04/07/2024 00:00;pxtrpf;content injection
+691550;byte_barn;121.172.132.47;11/01/2024 00:00;crowdstrike;valid-accounts
+456758;server_sonic;254.140.235.133;26/06/2024 00:00;pxtrpf;phising
+441705;address_artichoke;174.181.0.67;12/01/2024 00:00;crowdstrike;trusted relationship
+980417;server_spray;86.153.111.108;03/03/2024 00:00;crowdstrike_cs;exploit public facing
+791297;server_spray;210.159.245.199;22/08/2024 00:00;pxtrpf;Phising
+363579;name_vault;192.161.97.125;12/07/2024 00:00;xpklnr;supply chain compromise
+867568;server_phoenix;83.219.207.96;12/01/2024 00:00;xpklnr;explaoit-public facing
+209812;server_spray;244.110.8.40;15/04/2024 00:00;xpklnr;Replication through removable media
+178235;servelite;194.172.44.80;11/04/2024 00:00;crowdstrike;supply chain compromise
+638557;name_bounce;187.21.83.39;04/05/2024 00:00;pxtrpf;drive-by-compromise
+69713;spark_shrine;118.169.144.206;24/07/2024 00:00;pxtrpf;Replication through removable media
+625038;server_boost;59.218.102.145;22/09/2024 00:00;crowdstrike_cs;compromise (driveby)
+880920;name_vault;38.227.62.100;18/08/2024 00:00;crowdstrike;drive by compromise
+943004;server_surge;244.101.196.83;21/09/2024 00:00;pxtrpf;content injection
+379377;name_flare;73.80.176.177;05/06/2024 00:00;xpklnr;supply chain compromise
+985791;clever_server;86.70.157.117;08/01/2024 00:00;crowdstrike;Replication through removable media
+517262;server_spray;244.110.8.40;19/05/2024 00:00;xpklnr;phising
+705889;name_soar;255.61.194.85;06/08/2024 00:00;crowdstrike_cs;content_injection
+716252;script_shrine;181.75.227.93;20/08/2024 00:00;xpklnr;phising
+407040;servivio;189.197.179.58;23/03/2024 00:00;crowdstrike;phising
+34920;domain_daisy;89.139.158.117;22/06/2024 00:00;pxtrpf;drive-by-compromise
+770074;server_sprout;37.68.185.154;13/09/2024 00:00;defender;trusted relationship
+206973;server_frenzy;139.170.97.22;04/07/2024 00:00;defender;valid accounts
+614674;server_pro;137.220.249.174;24/07/2024 00:00;defender;supply_chain_compromise
+242351;name_stimulate;24.37.92.211;04/04/2024 00:00;xpklnr;content injection
+457357;clever_server;175.252.189.78;22/08/2024 00:00;xpklnr;content injection
+266172;domain_daisy;89.139.158.117;11/06/2024 00:00;pxtrpf;phising
+978220;programming_papaya;4.2.181.21;17/03/2024 00:00;pxtrpf;phising
+772539;script_shrine;181.75.227.93;30/06/2024 00:00;xpklnr;content injection
+496636;spark_shrine;254.89.186.11;08/06/2024 00:00;crowdstrike;replication-through-removable-media
+898659;programming_papaya;4.2.181.21;04/09/2024 00:00;pxtrpf;trusted relationship
+301054;computing_coriander;203.13.190.29;14/01/2024 00:00;defender;replication-through-removable-media
+487193;server_spray;86.153.111.108;12/03/2024 00:00;crowdstrike_cs;valid-accounts
+476330;cloud_clover;41.122.113.78;28/06/2024 00:00;crowdstrike;compromise (driveby)
+273064;server_match;98.87.105.173;02/08/2024 00:00;pxtrpf;content injection
+89090;server_spark;8.245.154.104;18/04/2024 00:00;pxtrpf;drive by compromise
+501851;programming_papaya;4.2.181.21;18/06/2024 00:00;pxtrpf;external remote service
+222456;name_flare;73.80.176.177;09/06/2024 00:00;xpklnr;Replication through removable media
+728477;server_lynx;60.140.72.229;24/09/2024 00:00;pxtrpf;trusted relationship
+846265;domain_daisy;87.3.75.80;26/06/2024 00:00;crowdstrike;trusted relationship
+839028;domain_daisy;87.3.75.80;23/08/2024 00:00;crowdstrike;drive by compromise
+885387;name_flu;210.139.189.4;28/06/2024 00:00;pxtrpf;supply_chain_compromise
+233746;address_artichoke;118.123.166.144;29/06/2024 00:00;defender;phising
+997630;byte_brigade;216.143.218.34;22/08/2024 00:00;pxtrpf;exploit public facing
+684907;server_pulse;117.29.193.235;04/02/2024 00:00;crowdstrike_cs;supply chain compromise
+405049;spark_shrine;187.24.234.40;29/01/2024 00:00;crowdstrike;valida_accounts
+644882;server_orbit;3.100.110.193;07/06/2024 00:00;defender;Replication through removable media
+504234;connection_cacao;15.201.87.20;19/06/2024 00:00;xpklnr;drive-by-compromise
+167267;clever_server;175.252.189.78;09/08/2024 00:00;xpklnr;external remote service
+702264;server_match;148.222.132.101;21/04/2024 00:00;crowdstrike;drive by compromise
+636328;connection_cacao;70.254.235.79;04/05/2024 00:00;crowdstrike;external-remote-service
+528530;byte_beat;71.115.54.187;16/02/2024 00:00;crowdstrike_cs;Replication through removable media
+21070;name_vault;192.161.97.125;21/09/2024 00:00;xpklnr;Replication through removable media
+635748;name_burst;135.3.178.19;11/03/2024 00:00;defender;drive-by-compromise
+93705;name_vault;38.227.62.100;01/08/2024 00:00;crowdstrike;content injection
+835428;address_artichoke;174.181.0.67;30/08/2024 00:00;crowdstrike;valida_accounts
+88043;server_pro;137.220.249.174;30/03/2024 00:00;defender;phising
+275550;name_vault;38.227.62.100;24/09/2024 00:00;crowdstrike;Phising
+854687;node_nectarine;218.130.171.99;05/10/2024 00:00;crowdstrike;drive-by-compromise
+219747;byte_barn;164.235.149.167;09/04/2024 00:00;xpklnr;valid accounts
+928940;server_frenzy;139.170.97.22;21/08/2024 00:00;defender;Replication through removable media
+442711;network_narcissus;255.67.121.67;29/04/2024 00:00;defender;trusted relationship
+418849;clever_server;86.70.157.117;13/08/2024 00:00;crowdstrike;replication-through-removable-media
+279450;name_flu;119.132.254.128;04/06/2024 00:00;crowdstrike;Replication through removable media
+765611;name_vault;17.216.166.29;03/09/2024 00:00;crowdstrike;phising
+177739;server_spark;8.245.154.104;17/09/2024 00:00;pxtrpf;valid-accounts
+133390;server_seed;110.104.255.2;25/06/2024 00:00;pxtrpf;trusted relationship
+82978;network_narcissus;255.67.121.67;29/03/2024 00:00;defender;drive by compromise
+28869;server_pulse;117.29.193.235;11/09/2024 00:00;crowdstrike_cs;trusted relationship
+198363;byte_barn;121.172.132.47;03/10/2024 00:00;crowdstrike;content injection
+201117;server_sonic;41.139.178.210;03/06/2024 00:00;xpklnr;trusted-relationship
+206415;spark_shrine;118.169.144.206;25/02/2024 00:00;pxtrpf;phising
+266964;servelite;194.172.44.80;14/08/2024 00:00;crowdstrike;external-remote-service
+943470;name_flash;138.17.221.79;14/02/2024 00:00;defender;explaoit-public facing
+268842;server_phoenix;83.219.207.96;23/03/2024 00:00;xpklnr;content_injection
+228582;script_shrine;181.75.227.93;29/06/2024 00:00;xpklnr;phising
+904515;connection_cacao;70.254.235.79;30/01/2024 00:00;crowdstrike;Replication through removable media
+541902;name_flash;27.158.154.116;16/08/2024 00:00;defender;content injection
+932288;info_island;178.29.247.13;15/06/2024 00:00;defender;supply chain compromise
+486681;spark_shrine;254.89.186.11;27/05/2024 00:00;crowdstrike;trusted relationship
+895203;server_utopia;204.42.170.106;18/08/2024 00:00;defender;Phising
+353606;server_boost;59.218.102.145;01/04/2024 00:00;crowdstrike_cs;supply chain compromise
+366901;server_spray;86.153.111.108;12/04/2024 00:00;crowdstrike_cs;supply_chain_compromise
+999299;cloud_clover;134.213.33.248;08/10/2024 00:00;defender;drive-by-compromise
+907083;spark_shrine;248.173.207.185;27/02/2024 00:00;xpklnr;drive-by-compromise
+303931;server_summit;36.209.179.4;17/01/2024 00:00;crowdstrike;external-remote-service
+934196;server_sonic;41.139.178.210;28/04/2024 00:00;xpklnr;supply chain compromise
+444464;spark_shrine;248.173.207.185;11/01/2024 00:00;xpklnr;exploit public facing
+665224;name_flash;27.158.154.116;29/08/2024 00:00;defender;phising
+28978;server_utopia;204.42.170.106;15/05/2024 00:00;defender;phising
+887586;name_vault;137.127.174.143;29/02/2024 00:00;xpklnr;Phising
+27830;name_vault;38.227.62.100;09/06/2024 00:00;crowdstrike;phising
+836307;node_nectarine;168.104.59.94;30/04/2024 00:00;xpklnr;external remote service
+521773;cloud_clover;134.213.33.248;25/02/2024 00:00;defender;drive-by-compromise
+277755;server_phoenix;83.219.207.96;02/09/2024 00:00;xpklnr;external remote service
+491535;cloud_clover;134.213.33.248;12/03/2024 00:00;defender;content injection
+621917;name_spray;91.201.167.211;05/09/2024 00:00;pxtrpf;exploit public facing
+897968;clever_server;86.70.157.117;23/05/2024 00:00;crowdstrike;Replication through removable media
+304135;name_soar;255.61.194.85;06/05/2024 00:00;crowdstrike_cs;drive by compromise
+450086;name_rave;190.13.109.124;23/05/2024 00:00;defender;phising
+360827;byte_brigade;216.143.218.34;17/05/2024 00:00;pxtrpf;explaoit-public facing
+953993;domain_daisy;89.139.158.117;06/08/2024 00:00;pxtrpf;external remote service
+245541;automated_azalea;25.133.203.93;03/09/2024 00:00;crowdstrike;Phising
+663603;name_rave;190.13.109.124;11/06/2024 00:00;defender;supply chain compromise
+717597;connection_cacao;15.201.87.20;02/05/2024 00:00;xpklnr;supply chain compromise
+970500;automated_azalea;25.133.203.93;08/09/2024 00:00;crowdstrike;trusted relationship
+473121;server_orbit;3.100.110.193;11/02/2024 00:00;defender;content injection
+148861;server_match;148.222.132.101;20/09/2024 00:00;crowdstrike;content injection
+435993;server_sonic;254.140.235.133;11/03/2024 00:00;pxtrpf;trusted relationship
+74235;server_match;98.87.105.173;19/04/2024 00:00;pxtrpf;trusted relationship
+188109;server_phoenix;65.109.165.41;31/05/2024 00:00;crowdstrike;phising
+851570;name_vault;137.127.174.143;21/04/2024 00:00;xpklnr;Phising
+365785;programming_papaya;4.2.181.21;05/09/2024 00:00;pxtrpf;supply chain compromise
+16735;name_quiver;122.53.91.87;09/02/2024 00:00;defender;Replication through removable media
+279085;name_spray;91.201.167.211;27/01/2024 00:00;pxtrpf;trusted relationship
+355056;cloud_clover;134.213.33.248;29/05/2024 00:00;defender;Replication through removable media
+611721;name_stimulate;212.181.255.207;13/03/2024 00:00;crowdstrike_cs;phising
+799734;connection_cacao;70.254.235.79;20/01/2024 00:00;crowdstrike;exploit public facing
+112053;name_frenzy;107.249.124.117;11/01/2024 00:00;crowdstrike;exploit public facing
+827770;server_match;98.87.105.173;27/05/2024 00:00;pxtrpf;supply_chain_compromise
+526944;server_match;148.222.132.101;03/08/2024 00:00;crowdstrike;Phising
+157397;servivio;202.30.35.66;16/09/2024 00:00;xpklnr;valid-accounts
+468551;address_artichoke;174.181.0.67;19/07/2024 00:00;crowdstrike;trusted relationship
+325933;info_island;178.29.247.13;11/08/2024 00:00;defender;phising
+569855;spark_shrine;248.173.207.185;28/03/2024 00:00;xpklnr;valid-accounts
+870396;name_rave;190.13.109.124;10/10/2024 00:00;defender;Replication through removable media
+939640;name_stimulate;212.181.255.207;12/01/2024 00:00;crowdstrike_cs;phising
+830072;server_lynx;60.140.72.229;01/04/2024 00:00;pxtrpf;supply chain compromise
+541902;name_flash;138.17.221.79;22/08/2024 00:00;defender;replication-through-removable-media
+608972;automated_azalea;42.46.70.0;27/02/2024 00:00;xpklnr;content injection
+664306;byte_brigade;216.143.218.34;14/01/2024 00:00;pxtrpf;Phising
+838062;server_phoenix;83.219.207.96;08/03/2024 00:00;xpklnr;Phising
+173970;clever_server;86.70.157.117;20/01/2024 00:00;crowdstrike;compromise (driveby)
+660876;server_horizon;102.145.229.227;20/07/2024 00:00;pxtrpf;content_injection
+887839;server_pulse;117.29.193.235;02/02/2024 00:00;crowdstrike_cs;content injection
+781102;clever_server;175.252.189.78;01/06/2024 00:00;xpklnr;valid-accounts
+301957;server_horizon;102.145.229.227;12/04/2024 00:00;pxtrpf;Replication through removable media
+20246;name_flare;73.80.176.177;01/07/2024 00:00;xpklnr;phising
+665769;name_stimulate;24.37.92.211;09/04/2024 00:00;xpklnr;trusted relationship
+875888;server_sonic;14.84.69.230;09/05/2024 00:00;crowdstrike;drive by compromise
+4568;byte_basil;214.171.233.83;17/05/2024 00:00;defender;content injection
+193997;server_phoenix;83.219.207.96;05/06/2024 00:00;xpklnr;content_injection
+643876;network_narcissus;255.67.121.67;14/03/2024 00:00;defender;phising
+606556;name_spray;91.201.167.211;27/02/2024 00:00;pxtrpf;external-remote-service
+626421;server_frenzy;139.170.97.22;20/04/2024 00:00;defender;external remote service
+607312;name_glitch;217.254.136.82;19/02/2024 00:00;crowdstrike_cs;phising
+449689;connection_cacao;70.254.235.79;23/06/2024 00:00;crowdstrike;phising
+510255;server_summit;131.21.57.124;13/03/2024 00:00;pxtrpf;trusted relationship
+789626;node_nectarine;218.130.171.99;27/03/2024 00:00;crowdstrike;phising
+992889;name_bounce;205.212.155.232;07/02/2024 00:00;crowdstrike;exploit public facing
+298737;name_flu;210.139.189.4;09/06/2024 00:00;pxtrpf;drive by compromise
+285089;network_narcissus;255.67.121.67;29/09/2024 00:00;defender;content injection
+409665;name_stimulate;24.37.92.211;10/09/2024 00:00;xpklnr;trusted relationship
+367753;name_quiver;122.53.91.87;25/03/2024 00:00;defender;phising
+704397;domain_daisy;89.139.158.117;27/08/2024 00:00;pxtrpf;phising
+716616;clever_server;86.70.157.117;09/01/2024 00:00;crowdstrike;Replication through removable media
+728442;name_stimulate;212.181.255.207;20/03/2024 00:00;crowdstrike_cs;valid-accounts
+353215;server_pro;137.220.249.174;18/06/2024 00:00;defender;replication-through-removable-media
+443542;node_nectarine;168.104.59.94;29/03/2024 00:00;xpklnr;external-remote-service
+944379;spark_shrine;248.173.207.185;26/02/2024 00:00;xpklnr;trusted relationship
+303507;server_sprout;37.68.185.154;28/06/2024 00:00;defender;trusted relationship
+168395;server_frenzy;195.181.27.3;12/07/2024 00:00;defender;trusted relationship
+142602;spark_shrine;187.24.234.40;10/05/2024 00:00;crowdstrike;trusted relationship
+486983;node_nectarine;168.104.59.94;07/10/2024 00:00;xpklnr;trusted relationship
+50639;name_stimulate;212.181.255.207;16/09/2024 00:00;crowdstrike_cs;trusted relationship
+700618;web_wonder;164.143.175.172;06/03/2024 00:00;crowdstrike_cs;phising
+746560;server_spray;106.94.51.64;06/01/2024 00:00;crowdstrike_cs;phising
+17710;clever_server;86.70.157.117;13/08/2024 00:00;crowdstrike;exploit public facing
+238054;network_narcissus;255.67.121.67;03/05/2024 00:00;defender;content injection
+112806;spark_shrine;118.169.144.206;09/08/2024 00:00;pxtrpf;content injection
+853886;node_nectarine;218.130.171.99;23/07/2024 00:00;crowdstrike;valida_accounts
+507423;clever_server;175.252.189.78;05/01/2024 00:00;xpklnr;content injection
+985383;connection_cacao;70.254.235.79;29/09/2024 00:00;crowdstrike;Replication through removable media
+79916;server_spray;18.147.227.44;29/03/2024 00:00;crowdstrike;exploit public facing
+4568;byte_basil;214.171.233.83;18/05/2024 00:00;defender;drive-by-compromise
+712245;server_boost;59.218.102.145;31/03/2024 00:00;crowdstrike_cs;supply chain compromise
+28256;name_flash;27.158.154.116;10/06/2024 00:00;defender;trusted relationship
+517614;server_aura;116.205.226.80;13/09/2024 00:00;pxtrpf;trusted relationship
+235442;servivio;189.197.179.58;11/05/2024 00:00;crowdstrike;replication-through-removable-media
+330229;name_stimulate;212.181.255.207;13/08/2024 00:00;crowdstrike_cs;Replication through removable media
+615188;name_burst;135.3.178.19;10/07/2024 00:00;defender;supply chain compromise
+12796;server_summit;131.21.57.124;17/01/2024 00:00;pxtrpf;explaoit-public facing
+102493;name_spray;56.165.175.235;21/04/2024 00:00;defender;trusted relationship
+199587;server_frenzy;139.170.97.22;28/05/2024 00:00;defender;phising
+975299;name_vault;192.161.97.125;27/03/2024 00:00;xpklnr;content_injection
+114972;server_phoenix;173.115.197.63;09/09/2024 00:00;xpklnr;trusted relationship
+67685;web_wonder;164.143.175.172;08/06/2024 00:00;crowdstrike_cs;exploit public facing
+89319;name_stimulate;24.37.92.211;22/05/2024 00:00;xpklnr;compromise (driveby)
+418754;connection_cacao;15.201.87.20;27/08/2024 00:00;xpklnr;phising
+5718;computing_coriander;203.13.190.29;22/05/2024 00:00;defender;phising
+650437;script_shrine;181.75.227.93;03/08/2024 00:00;xpklnr;phising
+227593;logic_lemon;185.103.147.217;17/09/2024 00:00;pxtrpf;content_injection
+184704;server_seed;110.104.255.2;01/08/2024 00:00;pxtrpf;valid-accounts
+245963;name_flare;73.80.176.177;22/08/2024 00:00;xpklnr;Replication through removable media
+425862;node_nectarine;218.130.171.99;30/06/2024 00:00;crowdstrike;external remote service
+361740;name_bounce;187.21.83.39;31/03/2024 00:00;pxtrpf;trusted-relationship
+906929;server_pro;137.220.249.174;06/10/2024 00:00;defender;supply chain compromise
+192061;server_phoenix;65.109.165.41;04/08/2024 00:00;crowdstrike;phising
+989883;address_artichoke;217.101.6.213;11/09/2024 00:00;pxtrpf;trusted relationship
+696694;name_flash;138.17.221.79;15/08/2024 00:00;defender;Replication through removable media
+626787;programming_papaya;4.2.181.21;20/09/2024 00:00;pxtrpf;phising
+974388;servivio;189.197.179.58;20/02/2024 00:00;crowdstrike;drive by compromise
+965927;server_surge;17.226.8.95;23/08/2024 00:00;crowdstrike;Replication through removable media
+249434;byte_beat;71.115.54.187;03/03/2024 00:00;crowdstrike_cs;drive-by-compromise
+573309;name_bounce;187.21.83.39;16/04/2024 00:00;pxtrpf;Phising
+798290;name_frenzy;16.38.120.153;30/07/2024 00:00;crowdstrike_cs;Replication through removable media
+6778;cloud_clover;134.213.33.248;05/07/2024 00:00;defender;supply_chain_compromise
+245578;name_flu;119.132.254.128;10/09/2024 00:00;crowdstrike;valid accounts
+524974;server_pro;137.220.249.174;23/05/2024 00:00;defender;compromise (driveby)
+376554;name_soar;255.61.194.85;13/08/2024 00:00;crowdstrike_cs;replication-through-removable-media
+589026;cloud_clover;41.122.113.78;29/01/2024 00:00;crowdstrike;Replication through removable media
+497426;name_glitch;217.254.136.82;15/09/2024 00:00;crowdstrike_cs;phising
+21583;server_spray;210.159.245.199;12/01/2024 00:00;pxtrpf;supply_chain_compromise
+857842;clever_server;175.252.189.78;07/03/2024 00:00;xpklnr;valid accounts
+353327;host_hyacinth;156.84.177.39;05/01/2024 00:00;defender;phising
+862596;address_artichoke;217.101.6.213;04/09/2024 00:00;pxtrpf;trusted-relationship
+978013;byte_barn;121.172.132.47;29/08/2024 00:00;crowdstrike;valid-accounts
+64854;server_boost;59.218.102.145;30/04/2024 00:00;crowdstrike_cs;drive by compromise
+386367;servelite;185.213.217.250;20/03/2024 00:00;pxtrpf;valid accounts
+741581;byte_brigade;216.143.218.34;31/03/2024 00:00;pxtrpf;phising
+729418;name_frenzy;107.249.124.117;28/01/2024 00:00;crowdstrike;content injection
+528494;server_horizon;102.145.229.227;18/03/2024 00:00;pxtrpf;external-remote-service
+489487;spark_shrine;118.169.144.206;01/07/2024 00:00;pxtrpf;trusted relationship
+16271;name_frenzy;16.38.120.153;24/07/2024 00:00;crowdstrike_cs;explaoit-public facing
+209844;domain_daisy;87.3.75.80;17/07/2024 00:00;crowdstrike;phising
+835852;name_flash;138.17.221.79;06/07/2024 00:00;defender;content injection
+281306;server_pro;137.220.249.174;20/02/2024 00:00;defender;trusted-relationship
+162029;servelite;194.172.44.80;02/09/2024 00:00;crowdstrike;replication-through-removable-media
+627449;server_orbit;3.100.110.193;29/09/2024 00:00;defender;phising
+652347;host_hyacinth;156.84.177.39;14/05/2024 00:00;defender;trusted relationship
+298893;name_vault;137.127.174.143;08/05/2024 00:00;xpklnr;Replication through removable media
+362362;server_spray;210.159.245.199;30/06/2024 00:00;pxtrpf;Replication through removable media
+658178;server_utopia;204.42.170.106;10/09/2024 00:00;defender;Replication through removable media
+275222;server_sonic;41.139.178.210;09/10/2024 00:00;xpklnr;compromise (driveby)
+449187;network_narcissus;255.67.121.67;27/06/2024 00:00;defender;exploit public facing
+123637;servivio;202.30.35.66;20/05/2024 00:00;xpklnr;phising
+286744;server_spray;86.153.111.108;12/06/2024 00:00;crowdstrike_cs;trusted relationship
+720100;server_sprout;37.68.185.154;09/06/2024 00:00;defender;drive by compromise
+163451;server_spray;106.94.51.64;25/01/2024 00:00;crowdstrike_cs;trusted-relationship
+968469;server_phoenix;85.153.99.255;15/02/2024 00:00;crowdstrike;supply chain compromise
+744070;name_vault;192.161.97.125;23/08/2024 00:00;xpklnr;phising
+269683;server_spray;86.153.111.108;13/08/2024 00:00;crowdstrike_cs;content injection
+128991;server_hype;52.154.94.15;17/04/2024 00:00;defender;external remote service
+128406;name_bounce;187.21.83.39;30/07/2024 00:00;pxtrpf;phising
+113115;script_shrine;181.75.227.93;20/01/2024 00:00;xpklnr;exploit public facing
+95561;server_pulse;117.29.193.235;19/07/2024 00:00;crowdstrike_cs;exploit public facing
+689213;address_artichoke;118.123.166.144;10/06/2024 00:00;defender;Replication through removable media
+306242;server_orbit;3.100.110.193;21/01/2024 00:00;defender;content injection
+761716;server_pro;137.220.249.174;08/06/2024 00:00;defender;exploit public facing
+5123;domain_daisy;89.139.158.117;22/03/2024 00:00;pxtrpf;trusted relationship
+360942;cloud_clover;139.224.8.197;29/01/2024 00:00;pxtrpf;valida_accounts
+12555;node_nest;122.139.122.39;07/03/2024 00:00;pxtrpf;trusted relationship
+31663;server_phoenix;85.153.99.255;23/07/2024 00:00;crowdstrike;valida_accounts
+343681;byte_beat;71.115.54.187;25/07/2024 00:00;crowdstrike_cs;trusted relationship
+319010;address_artichoke;217.101.6.213;13/09/2024 00:00;pxtrpf;Replication through removable media
+774599;name_frenzy;192.215.91.76;13/06/2024 00:00;xpklnr;phising
+216930;server_hype;52.154.94.15;04/10/2024 00:00;defender;trusted relationship
+55738;server_orbit;3.100.110.193;15/08/2024 00:00;defender;replication-through-removable-media
+968494;server_frenzy;139.170.97.22;04/04/2024 00:00;defender;drive by compromise
+141305;spark_shrine;187.24.234.40;19/09/2024 00:00;crowdstrike;phising
+554257;connection_cacao;70.254.235.79;06/08/2024 00:00;crowdstrike;drive-by-compromise
+741865;servivio;202.30.35.66;04/01/2024 00:00;xpklnr;trusted relationship
+76424;servelite;185.213.217.250;09/01/2024 00:00;pxtrpf;Replication through removable media
+677407;logic_lemon;185.103.147.217;05/03/2024 00:00;pxtrpf;Replication through removable media
+783716;name_burst;135.3.178.19;21/08/2024 00:00;defender;Replication through removable media
+380811;digital_dandelion;9.158.21.179;24/07/2024 00:00;pxtrpf;trusted relationship
+845670;cloud_clover;41.122.113.78;28/08/2024 00:00;crowdstrike;trusted relationship
+194256;script_shrine;181.75.227.93;25/06/2024 00:00;xpklnr;content_injection
+453624;server_spray;74.183.227.186;02/02/2024 00:00;xpklnr;Replication through removable media
+256795;name_burst;135.3.178.19;27/09/2024 00:00;defender;Replication through removable media
+363168;server_seed;110.104.255.2;01/09/2024 00:00;pxtrpf;content_injection
+938285;host_hyacinth;156.84.177.39;11/06/2024 00:00;defender;content injection
+836775;server_serenade;99.111.27.245;27/01/2024 00:00;pxtrpf;phising
+920422;name_quiver;122.53.91.87;09/01/2024 00:00;defender;external-remote-service
+216626;server_spark;8.245.154.104;21/05/2024 00:00;pxtrpf;supply chain compromise
+665422;name_flu;119.132.254.128;14/07/2024 00:00;crowdstrike;exploit public facing
+948002;server_match;98.87.105.173;17/08/2024 00:00;pxtrpf;phising
